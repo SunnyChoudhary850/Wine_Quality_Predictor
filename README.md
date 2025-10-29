@@ -5,7 +5,6 @@ This project aims to predict the quality of red wine based on various physicoche
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Model-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## 📘 Project Overview
